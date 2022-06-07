@@ -1,0 +1,21 @@
+.main {
+     margin: 0;
+     height: 100vh;
+     width: 100%;
+     display: flex;
+     justify-items: center ;
+     text-align: center;
+     align-items: center;
+}
+
+.position {
+     top: auto;
+      margin: auto;
+      display: flex;
+      position: inherit;
+      align-items: center;
+      padding: 100px;
+      background-color: white;
+      border: 2px solid blue;
+      border-radius: 20px;
+    }
